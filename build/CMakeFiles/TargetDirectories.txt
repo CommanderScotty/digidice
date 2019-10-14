@@ -1,0 +1,3 @@
+/home/scooter/fun/roll/build/CMakeFiles/rebuild_cache.dir
+/home/scooter/fun/roll/build/CMakeFiles/roll.dir
+/home/scooter/fun/roll/build/CMakeFiles/edit_cache.dir
